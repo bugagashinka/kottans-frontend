@@ -92,7 +92,9 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <details><summary>View</summary>
 
-![]()
+![Freecodecamp tasks](tasks/task_js_dom/freecodecamp.jpg)
+
+![JavaScript and the DOM](tasks/task_js_dom/JavaScript_and_the_DOM.jpg)
 
 </details>
 
