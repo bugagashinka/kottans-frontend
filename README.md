@@ -80,7 +80,9 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <details><summary>View</summary>
 
-![]()
+![Freecodecamp tasks](tasks/task_js_basics/freecodecamp.jpg)
+
+![Intro to JS](tasks/task_js_basics/Intro_to_JS.jpg)
 
 </details>
 
