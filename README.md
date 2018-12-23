@@ -66,7 +66,11 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <details><summary>View</summary>
 
-![]()
+![Responsive Web Design Fundamentals](tasks/task_responsive_web_design/Responsive_Web_Design_Fundamentals.jpg)
+
+![Flexbox Froggy](tasks/task_responsive_web_design/flexbox_froggy.png)
+
+![flexbox Zombles](tasks/task_responsive_web_design/flexbox_zombles.jpg)
 
 </details>
 
