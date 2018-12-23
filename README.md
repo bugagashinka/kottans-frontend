@@ -34,11 +34,13 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <!---------------- 2. VCS (hello gitty), GitHub and Collaboration ----------------->
 
-#### 2. VCS (hello gitty), GitHub and Collaboration
+#### 2. Git Collaboration
 
 <details><summary>View</summary>
 
-![]()
+![What is Version Control](tasks/task_git_collaboration/Review_a_Repo's_History.jpg)
+
+![GitHub & Collaboration](tasks/task_git_collaboration/Staying_In_Sync_With_A_Remote_Repository.jpg)
 
 </details>
 
