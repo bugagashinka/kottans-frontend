@@ -22,11 +22,13 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <!----------------------------- 1. Linux CLI and Networking --------------------------------->
 
-#### 1. Linux CLI and Networking
+#### 1. Linux CLI, and HTTP
 
 <details><summary>View</summary>
 
-![]()
+![Linux cli-1](tasks/task_linux_cli/cli_1-2.jpg)
+
+![Linux cli-1](tasks/task_linux_cli/cli_3-4.jpg)
 
 </details>
 
