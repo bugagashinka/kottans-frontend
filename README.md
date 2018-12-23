@@ -54,7 +54,9 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <details><summary>View</summary>
 
-![]()
+![CSS Basic](tasks/task_html_css_intro/css_basic.jpg)
+
+![HTML Basic](tasks/task_html_css_intro/html_basic.jpg)
 
 </details>
 
