@@ -14,7 +14,9 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <details><summary>View</summary>
 
-![]()
+- **Git** it's not about abbreviation it's slang 'unpleased person'
+- Do one commit per logical change
+- Very helpfully for practice Git [sandbox/visualizer](https://learngitbranching.js.org/) from extra material
 
 </details>
 
