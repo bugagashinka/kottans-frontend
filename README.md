@@ -108,7 +108,7 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 <details><summary>View</summary>
 
-![Freecodecamp tasks](tasks/task_js_oop/codewars.jpg)
+![Codewars account](tasks/task_js_oop/codewars.jpg)
 
 ![Object Oriented JS](tasks/task_js_oop/Object_Oriented_JS.jpg)
 
