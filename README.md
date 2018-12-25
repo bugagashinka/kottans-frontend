@@ -90,6 +90,8 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 #### 6. DOM
 
+[Demo](https://bugagashinka.github.io/task_js_dom/) | [Code base](https://github.com/bugagashinka/task_js_dom)
+
 <details><summary>View</summary>
 
 ![Freecodecamp tasks](tasks/task_js_dom/freecodecamp.jpg)
@@ -104,7 +106,11 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 #### 7. Building a Tiny JS World
 
+[Demo](https://bugagashinka.github.io/a-tiny-JS-world/) | [Code base](https://github.com/bugagashinka/a-tiny-JS-world)
+
 #### 8. Object-Oriented JavaScript
+
+[Demo](https://bugagashinka.github.io/frontend-nanodegree-arcade-game/)| [Code base](https://github.com/bugagashinka/frontend-nanodegree-arcade-game)
 
 <details><summary>View</summary>
 
@@ -119,6 +125,8 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 #### 10. Offline Web Applications
 
 #### 11. Memory pair game
+
+[Demo](https://bugagashinka.github.io/memory-pair-game/) | [Code base](https://github.com/bugagashinka/memory-pair-game)
 
 #### 12. Website Performance Optimization
 
