@@ -90,7 +90,7 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 #### 6. DOM
 
-[Demo](https://bugagashinka.github.io/task_js_dom/) | [Code base](https://github.com/bugagashinka/task_js_dom)
+[Demo](https://bugagashinka.github.io/task_js_dom/) | [Code base](https://github.com/bugagashinka/task_js_dom) Reviewed and approved by @IgorKurkov
 
 <details><summary>View</summary>
 
@@ -106,11 +106,11 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 #### 7. Building a Tiny JS World
 
-[Demo](https://bugagashinka.github.io/a-tiny-JS-world/) | [Code base](https://github.com/bugagashinka/a-tiny-JS-world)
+[Demo](https://bugagashinka.github.io/a-tiny-JS-world/) | [Code base](https://github.com/bugagashinka/a-tiny-JS-world) Reviewed and approved by @OleksiyRudenko
 
 #### 8. Object-Oriented JavaScript
 
-[Demo](https://bugagashinka.github.io/frontend-nanodegree-arcade-game/)| [Code base](https://github.com/bugagashinka/frontend-nanodegree-arcade-game)
+[Demo](https://bugagashinka.github.io/frontend-nanodegree-arcade-game/)| [Code base](https://github.com/bugagashinka/frontend-nanodegree-arcade-game) Reviewed and approved by @OleksiyRudenko
 
 <details><summary>View</summary>
 
@@ -122,12 +122,18 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 #### 9. OOP exercise
 
+[Demo](https://bugagashinka.github.io/a-tiny-JS-world/)| [Code base](https://bugagashinka.github.io/a-tiny-JS-world/) Reviewed and approved by @OleksiyRudenko
+
 #### 10. Offline Web Applications
 
 #### 11. Memory pair game
 
-[Demo](https://bugagashinka.github.io/memory-pair-game/) | [Code base](https://github.com/bugagashinka/memory-pair-game)
+[Demo](https://bugagashinka.github.io/memory-pair-game/) | [Code base](https://github.com/bugagashinka/memory-pair-game) Reviewed and approved by @zonzujiro
 
 #### 12. Website Performance Optimization
 
 #### 13. Weather App
+
+#### 14. Friends App
+
+[Demo](https://bugagashinka.github.io/memory-pair-game/) | [Code base](https://github.com/bugagashinka/memory-pair-game) Reviewed and approved by @
