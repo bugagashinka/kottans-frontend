@@ -136,4 +136,4 @@ The online stage of _Front-End Course_. Following tasks should be completed at h
 
 #### 14. Friends App
 
-[Demo](https://bugagashinka.github.io/memory-pair-game/) | [Code base](https://github.com/bugagashinka/memory-pair-game) Reviewed and approved by @
+[Demo](https://bugagashinka.github.io/friends-app/) | [Code base](https://github.com/bugagashinka/friends-app) Reviewed and approved by @yevhenorlov
